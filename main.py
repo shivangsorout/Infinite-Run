@@ -1,1 +1,1 @@
-print("Welcome to Infinite Run")
+print("Welcome to Infinite Run!!")
